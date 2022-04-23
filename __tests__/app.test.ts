@@ -1,9 +1,9 @@
 
 
-// describe('first test', () => {
+describe('first test', () => {
 
-//     it('first test', () => {
+    it('first test', () => {
 
-//         expect(true).toEqual(true);
-//     })
-// });
+        expect(true).toEqual(true);
+    })
+});
